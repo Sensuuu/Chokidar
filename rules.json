@@ -1,0 +1,55 @@
+{
+  "rules": [
+    {
+      "name": "Videos",
+      "extensions": [".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm"],
+      "folder": "Videos"
+    },
+    {
+      "name": "MP3 Files",
+      "extensions": [".mp3"],
+      "folder": "Music/MP3s"
+    },
+    {
+      "name": "WAV Files",
+      "extensions": [".wav"],
+      "folder": "Music/WAV"
+    },
+    {
+      "name": "Other Music",
+      "extensions": [".flac", ".aac", ".ogg", ".m4a"],
+      "folder": "Music/Others"
+    },
+    {
+      "name": "Images",
+      "extensions": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp"],
+      "folder": "Images"
+    },
+    {
+      "name": "PDFs",
+      "extensions": [".pdf"],
+      "folder": "Documents/PDFs"
+    },
+    {
+      "name": "Word Documents",
+      "extensions": [".doc", ".docx"],
+      "folder": "Documents/Word"
+    },
+    {
+      "name": "Excel Documents",
+      "extensions": [".xls", ".xlsx"],
+      "folder": "Documents/Excel"
+    },
+    {
+      "name": "Other Documents",
+      "extensions": [".txt", ".ppt", ".pptx", ".csv"],
+      "folder": "Documents/Others"
+    },
+    {
+      "name": "Archives",
+      "extensions": [".zip", ".rar", ".7z", ".tar", ".gz", ".iso"],
+      "folder": "Archives"
+    }
+  ],
+  "defaultFolder": "IMP FILES"
+}
