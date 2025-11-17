@@ -64,6 +64,7 @@ Now it runs automatically when you boot your PC!
 
 Downloads folder gets organized like this:
 
+```
 Videos/ - .mp4, .mkv, .avi, .mov files
 Music/
 MP3s/ - .mp3 files
@@ -77,6 +78,7 @@ Excel/ - .xls, .xlsx files
 Others/ - .txt, .ppt files
 Archives/ - .zip, .rar, .7z files
 IMP FILES/ - Unknown file types
+```
 
 Want to change the rules? Edit `rules.json`
 
@@ -88,8 +90,10 @@ Open this file: `logs/organizer.log`
 
 You'll see entries like:
 
+```
 [2025-11-17 15:30:42] INFO: Moved: song.mp3 -> Music/MP3s/song.mp3
 [2025-11-17 15:30:45] INFO: Moved: video.mp4 -> Videos/video.mp4
+```
 
 ### See If Process Is Running
 
